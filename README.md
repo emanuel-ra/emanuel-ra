@@ -7,7 +7,7 @@
 
 ```javascript
 const emanuel-ra = {
-    pronouns: "she" | "her",
+    pronouns: "he" | "him",
     code: [Javascript, Typescript, HTML, CSS, PHP, C#, '.NET CORE 6'],
     tools: [React, Astro, Laravel, TailwindCss],
     architecture: ["RESTful API", "mvc", "cqrs pattern .net core"],       
