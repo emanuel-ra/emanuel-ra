@@ -1,5 +1,5 @@
 <h2> Hi, I'm Emanuel Ramirez Abarca! <img src="https://media.giphy.com/media/2DsBnF1sYl444gpEmw/giphy.gif?cid=ecf05e47qw1rj0sv3ta8ugqz6ti7aeajni28bwspgfyottc7&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/JqmupuTVZYaQX5s094/giphy.gif?cid=790b7611p3bn8qr0wxk5p53vjcjaay3owcxzbrw4d07fsety&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="230">
+<img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJsMjI0amJsaW80bDk1ZWp2MW52MzBod2J3aXNndmJxd3E1aDA0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Xgg0PkTao7Yy8HOElW/giphy.gif" width="230">
 </em></p>
 
 
