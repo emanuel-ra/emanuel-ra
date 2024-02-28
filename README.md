@@ -3,7 +3,7 @@
 </em></p>
 
 
-### <img src="https://media.giphy.com/media/11h03d0FBjtZO8/giphy.gif?cid=ecf05e47zaydurru79zvkpbvgpu3h43wn72fvbqxeiha28ud&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"> A little more about me...  
+### <img style="border-radius:50%" src="https://media.giphy.com/media/11h03d0FBjtZO8/giphy.gif?cid=ecf05e47zaydurru79zvkpbvgpu3h43wn72fvbqxeiha28ud&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="auto" > A little more about me...  
 
 ```javascript
 const emanuel-ra = {
