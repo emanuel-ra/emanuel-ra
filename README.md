@@ -9,7 +9,7 @@
 [![](https://img.shields.io/badge/Gmail-emanuelrr55%40gmail.com-red)](mailto:emanuelrr55@gmail.com)
 
 
-### <img src="https://media.giphy.com/media/11h03d0FBjtZO8/giphy.gif?cid=ecf05e47zaydurru79zvkpbvgpu3h43wn72fvbqxeiha28ud&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50" height="auto" > A little more about me...  
+### A little more about me...  <img src="https://media.giphy.com/media/cVrccUf0NC1TQlLiZf/giphy.gif?cid=790b761158ayf7ects9cy6cik40gkft5zdud8c95u7ja6qdz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="auto" >
 
 ```javascript
 const emanuel = {
