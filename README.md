@@ -16,6 +16,7 @@ const emanuel = {
   pronouns: 'he' | 'him',
   code: [
     '.NET Core',
+    'C#',
     'PHP',
     'ReactJS',
     'JavaScript',
