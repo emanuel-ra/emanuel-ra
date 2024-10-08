@@ -7,6 +7,7 @@ Soy un desarrollador full-stack con 7 años de experiencia en el desarrollo de s
 
 [![Linkedin: emanuelramirezabarca](https://img.shields.io/badge/-emanuelramirezabarca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelramirezabarca/)](https://www.linkedin.com/in/emanuelramirezabarca//)
 [![](https://img.shields.io/badge/Gmail-emanuelrr55%40gmail.com-red)](mailto:emanuelrr55@gmail.com)
+[![Frontend Mentor](https://img.shields.io/badge/Frontend%20Mentor-Profile-blue)](https://www.frontendmentor.io/profile/emanuel-ra)
 
 ### A little more about me... <img src="https://media.giphy.com/media/cVrccUf0NC1TQlLiZf/giphy.gif?cid=790b761158ayf7ects9cy6cik40gkft5zdud8c95u7ja6qdz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" height="auto" >
 
